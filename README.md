@@ -21,3 +21,14 @@
   <a href="https://www.linkedin.com/in/ana-carolina-andrade-silva-50a4b92a3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+##
+<div> 
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=anamelcarolina&theme=tokyonight&layout=compact&custom_title=Estatistica&langs_count=9" 
+  />
+
+</div>
